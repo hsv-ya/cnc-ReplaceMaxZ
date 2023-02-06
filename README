@@ -1,0 +1,7 @@
+Changing the maximum Z to the desired coordinate.
+
+Example:
+	input  'G0 X0. Y0. Z180.'
+	result 'G0 X0. Y0. Z120.'
+
+PS. Not working with I, J, K, R only with X, Y, Z
